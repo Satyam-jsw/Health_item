@@ -1,0 +1,13 @@
+.container {
+    border: solid black 3px;
+    border-radius: 10px;
+    width: 500px;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+.heading {
+    text-align: center;
+}

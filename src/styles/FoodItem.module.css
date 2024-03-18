@@ -1,0 +1,13 @@
+.span_item {
+    font-weight: 500;
+    font-style: oblique;
+    color: blue;
+    margin-left: 10px;
+}
+
+.button {
+    float: right;
+    background-color: red;
+    text-align: center;
+    margin-right: 10px;
+}

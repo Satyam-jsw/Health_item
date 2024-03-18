@@ -1,0 +1,13 @@
+.display {
+    text-align: center;
+    padding: 5px;
+}
+
+.newItemColor {
+    color: rgb(220, 8, 248);
+}
+
+.input {
+    border: solid;
+    border-radius: 5px;
+}
